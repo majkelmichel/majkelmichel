@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @majkelmichel
 - 👀 I’m interested in React, Cloud, Contenerization
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning Docker and Flutter
 
 <!---
 majkelmichel/majkelmichel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
